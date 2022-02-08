@@ -1,3 +1,8 @@
-## Data 100 Summer 2021 website
+## Self -Taught Data 100 Principles and Techniques of Data Science
 
-Public facing repo for Data 100, Summer 2021
+### Finished:
+
+- **Lab:** 1-14
+- **Homework:** 1-13
+- **Discussion:** ALL
+- **Final Projects:** AQI, Traffic
